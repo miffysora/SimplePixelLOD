@@ -1,0 +1,20 @@
+﻿2013/11/12 23:02:25 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\jasmingirl\Documents\vsproject\SimplePixelLOD\SimplePixelLOD.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Lod.cpp
+         Lod.cpp
+     1>c:\users\jasmingirl\documents\vsproject\simplepixellod\lod.cpp(16): warning C4305: '引数' : 'double' から 'GLclampf' へ切り詰めます。
+     1>c:\users\jasmingirl\documents\vsproject\simplepixellod\lod.cpp(115): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\jasmingirl\documents\vsproject\simplepixellod\lod.cpp(117): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\jasmingirl\documents\vsproject\simplepixellod\lod.cpp(123): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\jasmingirl\documents\vsproject\simplepixellod\lod.cpp(125): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jasmingirl\Documents\vsproject\SimplePixelLOD\Debug\SimplePixelLOD.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jasmingirl\Documents\vsproject\SimplePixelLOD\Debug\SimplePixelLOD.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jasmingirl\Documents\vsproject\SimplePixelLOD\Debug\SimplePixelLOD.lib" /MACHINE:X86 Debug\Block.obj
+         Debug\Lod.obj
+         Debug\main.obj
+         SimplePixelLOD.vcxproj -> C:\Users\jasmingirl\Documents\vsproject\SimplePixelLOD\Debug\SimplePixelLOD.exe
+     1>プロジェクト "C:\Users\jasmingirl\Documents\vsproject\SimplePixelLOD\SimplePixelLOD.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.07
